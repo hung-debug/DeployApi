@@ -274,6 +274,102 @@
       ],
       "createdAt": "2024-06-01T10:15:30.000Z",
       "updatedAt": "2024-06-10T12:30:45.000Z"
+    },
+    {
+      "_id": "8",
+      "name": "Iphone 16 Pro Max" ,
+      "description": "he iPhone 16 Pro Max is anticipated to bring significant upgrades in display, camera, performance, and battery life. Here are some rumored details:",
+      "priceTags": [
+        {
+          "_id": "8-1",
+          "name": "Light Grey",
+          "price": 1000.9
+        },
+        {
+          "_id": "8-2",
+          "name": "Matte Black",
+          "price": 1001.69
+        }
+      ],
+      "categories": [
+        {
+          "_id": "cat-5",
+          "name": "Iphone",
+          "image": "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044895/50003___i___n_tho___i_iphone_16_pro_max_512gb_titan_t____nhi__n_ch__nh_h__ng_vna_b6lxip.jpg"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044493/cate-iphone-16-series-29_xeh37a.webp",
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044493/cate-iphone-16-series-29_xeh37a.webp",
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044493/cate-iphone-16-series-29_xeh37a.webp",
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044894/iphone-16-mau-den_i8owux.webp"      
+      ],
+      "createdAt": "2024-06-01T10:15:30.000Z",
+      "updatedAt": "2024-06-10T12:30:45.000Z"
+    },
+    {
+      "_id": "9",
+      "name": "Iphone 16 Pro Max" ,
+      "description": "he iPhone 16 Pro Max is anticipated to bring significant upgrades in display, camera, performance, and battery life. Here are some rumored details:",
+      "priceTags": [
+        {
+          "_id": "9-1",
+          "name": "Light Grey",
+          "price": 1000.9
+        },
+        {
+          "_id": "9-2",
+          "name": "Matte Black",
+          "price": 1001.69
+        }
+      ],
+      "categories": [
+        {
+          "_id": "cat-5",
+          "name": "Iphone",
+          "image": "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044895/50003___i___n_tho___i_iphone_16_pro_max_512gb_titan_t____nhi__n_ch__nh_h__ng_vna_b6lxip.jpg"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044493/cate-iphone-16-series-29_xeh37a.webp",
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044493/cate-iphone-16-series-29_xeh37a.webp",
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044493/cate-iphone-16-series-29_xeh37a.webp",
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044894/iphone-16-mau-den_i8owux.webp"      
+      ],
+      "createdAt": "2024-06-01T10:15:30.000Z",
+      "updatedAt": "2024-06-10T12:30:45.000Z"
+    },
+    {
+      "_id": "10",
+      "name": "Iphone 16 Pro Max" ,
+      "description": "he iPhone 16 Pro Max is anticipated to bring significant upgrades in display, camera, performance, and battery life. Here are some rumored details:",
+      "priceTags": [
+        {
+          "_id": "10-1",
+          "name": "Light Grey",
+          "price": 1000.9
+        },
+        {
+          "_id": "10-2",
+          "name": "Matte Black",
+          "price": 1001.69
+        }
+      ],
+      "categories": [
+        {
+          "_id": "cat-5",
+          "name": "Iphone",
+          "image": "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044895/50003___i___n_tho___i_iphone_16_pro_max_512gb_titan_t____nhi__n_ch__nh_h__ng_vna_b6lxip.jpg"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044493/cate-iphone-16-series-29_xeh37a.webp",
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044493/cate-iphone-16-series-29_xeh37a.webp",
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044493/cate-iphone-16-series-29_xeh37a.webp",
+        "https://res.cloudinary.com/dhgivijqz/image/upload/v1743044894/iphone-16-mau-den_i8owux.webp"      
+      ],
+      "createdAt": "2024-06-01T10:15:30.000Z",
+      "updatedAt": "2024-06-10T12:30:45.000Z"
     }
   ],
   "categories": [
